@@ -1,64 +1,141 @@
+<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 
-<h1 align="center">Hey there 👋, I'm Akash Kumar</h1>
-<h3 align="center">🚀 MERN Stack Developer | Problem Solver </h3>
+<h3 align="center">
+Full Stack Developer | React • Next.js • Node.js • MongoDB
+</h3>
 
----
-
-### 👨‍💻 About Me  
-🌱 Currently learning **MERN Stack Development**  
-💡 Exploring **Next.js**, **GraphQL**, and **Strapi**  
-💻 Solving **DSA problems** daily in JavaScript  
-🎯 Goal: Become a full-stack developer & build impactful web products  
-
----
-
-### 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,mysql" />
+Building scalable web applications, solving problems with JavaScript, and continuously improving through hands-on development.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Akki789">
+    <img src="https://komarev.com/ghpvc/?username=Akki789&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+
+  <a href="https://github.com/Akki789?tab=followers">
+    <img src="https://img.shields.io/github/followers/Akki789?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
-### 🚀 What I’m Working On  
-- ⚛ Building full-stack projects using MERN  
-- 📚 Enhancing my problem-solving skills  
-- 🌐 Preparing for developer opportunities  
-- ✍️ Improving communication & presentation skills  
+## 👨‍💻 About Me
+
+- 💼 Former **Front-End Developer Intern at GrapeDawn**
+- 🚀 Building responsive and scalable applications using the **MERN Stack**
+- ⚛️ Experienced with **React.js, Next.js, JavaScript, REST APIs**
+- 🧠 Regularly practicing **Data Structures & Algorithms using JavaScript**
+- 🔍 Focused on writing clean, maintainable, and user-centric code
+- 🎯 Goal: Grow into a strong Full Stack Engineer and build products that create real impact
 
 ---
 
-### 🧩 Featured Projects  
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🎮 **Tic Tac Toe Game** | Simple DOM-based interactive game | HTML, CSS, JS |
-| 🌤 **Weather App** | Fetches real-time weather data using API | HTML, CSS, JS |
-| 🧠 **DSA Tracker** | My daily solved problems & notes | JavaScript |
-| 🛒 **Mini E-Commerce UI** | Flipkart-like homepage with categories | HTML, CSS, JS |
+## 🛠️ Tech Stack
 
----
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akki789&show_icons=true&theme=tokyonight" alt="Akash's GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akki789&theme=tokyonight" alt="GitHub Streak" width="49%" />
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-### 🏆 Top Languages  
+## 🚀 Featured Projects
+
+### 💰 Pennywise – Personal Finance Tracker
+
+A full-featured finance tracking application designed to help users manage their income and expenses efficiently.
+
+#### Key Features
+- 🔐 Secure authentication using **Google Sign-In with Firebase Authentication**
+- 📊 Real-time transaction management powered by **Cloud Firestore**
+- 💵 Interactive financial dashboard displaying **balance, income, and expense analytics**
+- 🔍 Dynamic filtering and automated calculations for better expense tracking
+- ⚡ Instant synchronization of financial data across sessions
+
+**Tech Stack:** React.js • Ant Design • Firebase Authentication • Cloud Firestore
+
+🔗 **Live Demo:** (https://pennywise-brown.vercel.app/)  
+🔗 **GitHub:** https://github.com/Akki789/Pennywise-Personal-Finance-Tracker-
+
+---
+
+### 📈 CoinMetrics – Cryptocurrency Analytics Dashboard
+
+A modern cryptocurrency dashboard that provides real-time market insights through interactive data visualizations.
+
+#### Key Features
+- 🌐 Integrated live cryptocurrency APIs to fetch real-time market data
+- 📉 Built interactive charts for price trends and market analysis
+- 🪙 Enabled multi-coin comparisons for informed decision-making
+- 🎨 Developed a responsive and polished UI using Material UI and Framer Motion
+- ⚡ Optimized performance by minimizing unnecessary API requests and improving component updates
+
+**Tech Stack:** React.js • Material UI • Chart.js • Framer Motion • REST APIs
+
+🔗 **Live Demo:** https://coin-metrics.vercel.app/ 
+🔗 **GitHub:** https://github.com/Akki789/Crypto-Tracker-Website
+
+---
+
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akki789&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akki789&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akki789&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Connect With Me  
+## 💻 Most Used Languages
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/akash-kumar-b85b451b5/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:aakashkumarag96@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Akki789"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akki789&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h4 align="center">“Code. Create. Consistency. That’s my stack.” 💻</h4>
+## 🎯 Current Focus
+
+- ⚡ Building production-ready Full Stack applications
+- 🧩 Strengthening problem-solving skills through DSA
+- 📚 Exploring modern development practices
+- 🤝 Contributing effectively in collaborative environments
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:aakashkumarag96@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/akash-kumar-b85b451b5/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Akki789">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+Code. Build. Improve. Repeat.
+</h3>
