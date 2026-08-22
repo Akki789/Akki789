@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer | React • Next.js • Node.js • MongoDB
+Full Stack Developer | React • Express.js • Node.js • MongoDB
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@ Building scalable web applications, solving problems with JavaScript, and contin
 
 - 💼 Former **Front-End Developer Intern at GrapeDawn**
 - 🚀 Building responsive and scalable applications using the **MERN Stack**
-- ⚛️ Experienced with **React.js, Next.js, JavaScript, REST APIs**
+- ⚛️ Experienced with **React.js, JavaScript, REST APIs**
 - 🧠 Regularly practicing **Data Structures & Algorithms using JavaScript**
 - 🔍 Focused on writing clean, maintainable, and user-centric code
 - 🎯 Goal: Grow into a strong Full Stack Engineer and build products that create real impact
