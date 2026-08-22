@@ -22,7 +22,6 @@ Building scalable web applications, solving problems with JavaScript, and contin
 
 ## 👨‍💻 About Me
 
-- 💼 Former **Front-End Developer Intern at GrapeDawn**
 - 🚀 Building responsive and scalable applications using the **MERN Stack**
 - ⚛️ Experienced with **React.js, JavaScript, REST APIs**
 - 🧠 Regularly practicing **Data Structures & Algorithms using JavaScript**
